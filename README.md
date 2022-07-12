@@ -40,7 +40,7 @@ Step 11) You can perform the chatting from server to client or client to server
 Step 12) For Group Chat ( chat with Multiple Client ) open WPFClient application file for multiple times. 
 
 
-# Project 2: Version Version_1.0.1_Signal_R_and_Push_Notification.zip
+# Project 2: Version_1.0.1_Signal_R_and_Push_Notification.zip
 
 Step 1) Open the backend folder in Visual Studio 2022
 
