@@ -77,3 +77,19 @@ Step 5) Go to the bellow links only for correct execution
              http://localhost:65123/Admin/SendToSpecificUser   (This is for Server )
 
 Step 6) Provide details in server side and execution is completed. 
+
+# Project 4: Version 1.0.3 Signal R Group Message and Push Notification.zip 
+
+Step 1) Open the project in Visual Studio 2022 
+
+Step 2) Double click on  chat app.sln
+
+Step 3) Use Short cut key Ctrl + Shift + B for build solution operation 
+
+Step 4) Run the Solution 
+
+Step 5) In browser https://localhost:44341/ will be opened 
+
+Step 6) Open the same localhost in multiple browser and you can execute Group chat for public and Private. 
+
+Step 7) Also, you can observe the chat are displayed as an notification. 
