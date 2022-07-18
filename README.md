@@ -93,3 +93,17 @@ Step 5) In browser https://localhost:44341/ will be opened
 Step 6) Open the same localhost in multiple browser and you can execute Group chat for public and Private. 
 
 Step 7) Also, you can observe the chat are displayed as an notification. 
+
+# Test.zip 
+
+1) This folder is for testing all the SignalR and Push Notification projects 
+
+2) Platform used for Testing is K6 
+
+3) To execute perform the foloowing Command 
+
+4) Go the Folder 
+
+k6 run --vus 10 --duration 30s file_name.js 
+
+In this command you can edit the number of virtual uses and duration as well. 
